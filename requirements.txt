@@ -3,3 +3,4 @@ gTTS
 SpeechRecognition
 pydub
 gunicorn
+flask-cors
